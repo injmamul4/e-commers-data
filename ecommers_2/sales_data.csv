@@ -1,0 +1,14 @@
+order_id,order_date,customer_name,gender,city,product_name,category,price,quantity,total_amount
+1001,05-01-2026,Rahul,Male,Mumbai,Laptop,Electronics,55000,1,55000
+1006,10-02-2026,Arjun,Male,Delhi,Laptop,Electronics,55000,1,55000
+1002,08-01-2026,Aman,Male,Delhi,Mobile,Electronics,25000,1,25000
+1007,15-02-2026,Sneha,Female,Mumbai,Mobile,Electronics,25000,2,50000
+1010,10-03-2026,Anjali,Female,Delhi,Mobile,Electronics,25000,1,25000
+1001,05-01-2026,Rahul,Male,Mumbai,Headphones,Electronics,2000,2,4000
+1004,15-01-2026,Rahul,Male,Mumbai,Headphones,Electronics,2000,1,2000
+1003,10-01-2026,Priya,Female,Mumbai,Shoes,Fashion,3000,2,6000
+1008,01-03-2026,Priya,Female,Mumbai,Shoes,Fashion,3000,1,3000
+1005,02-02-2026,Neha,Female,Pune,T-Shirt,Fashion,1200,3,3600
+1008,01-03-2026,Priya,Female,Mumbai,T-Shirt,Fashion,1200,2,2400
+1004,15-01-2026,Rahul,Male,Mumbai,Watch,Fashion,5000,1,5000
+1009,05-03-2026,Rohit,Male,Pune,Watch,Fashion,5000,1,5000
